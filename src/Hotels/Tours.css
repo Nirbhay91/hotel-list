@@ -1,0 +1,70 @@
+
+.header{
+    background: #030388;
+}
+h5{
+    color: white;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    display: inline;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    /* background-color: #333; */
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+
+  .trip-web{
+    float: left;
+  }
+
+  .mc-hd__search-booking {
+    float: right;
+    margin: 16px 4px;
+    height: 34px;
+    line-height: 18px;
+    box-sizing: border-box;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.mc-hd__search-booking-cur{
+    background: hsla(0,0%,100%,.3);
+    border: none;
+    color: white;
+}
+a.mc-hd__search-booking-cur {
+    height: 35px;
+    box-sizing: border-box;
+    border-radius: 4px;
+    border: 1px solid #dadfe6;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+}

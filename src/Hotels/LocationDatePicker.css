@@ -1,0 +1,18 @@
+
+.tour-backgroud{
+    background: #e7e3e3;
+}
+.location-date-picker{
+    height: 144px;
+    position: relative;
+    transition: all ease 0.3s;
+    box-shadow: 0px 12px 24px 0px rgba(8,38,110,0.24);
+}
+
+.compose-search-V8{
+    border-radius: 8px;
+    margin: 0 auto;
+    padding: 24px 16px;
+    background: #fff;
+    box-sizing: border-box;
+}

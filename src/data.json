@@ -1,0 +1,27 @@
+[
+    {
+       "name": "Hotel 1",
+       "description": "Hotel 1 description...",
+       "image": "http://photos.hotelbeds.com/giata/00/004200/004200a_hb_ro_006.jpg",
+       "price": "2200"
+    },
+    {
+       "name": "Hotel 2",
+       "description": "Hotel 2 description...",
+       "image": "http://photos.hotelbeds.com/giata/00/004200/004200a_hb_ro_006.jpg",
+       "price": "2200"
+    },
+    {
+        "name": "Hotel 2",
+        "description": "Hotel 2 description...",
+        "image": "http://photos.hotelbeds.com/giata/00/004200/004200a_hb_ro_006.jpg",
+        "price": "2200"
+     },
+     {
+        "name": "Hotel 2",
+        "description": "Hotel 2 description...",
+        "image": "http://photos.hotelbeds.com/giata/00/004200/004200a_hb_ro_006.jpg",
+        "price": "2200"
+     }
+   
+   ]
